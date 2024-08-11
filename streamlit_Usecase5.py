@@ -24,7 +24,33 @@ st.html(
     
     "<p>و مثل ما تشوف ما في فرق كبير في التفضيل و هذا يرجع لنوعية الوظيفة و مدى تناسبها  </p>"
 )
-st.image("Q.3.png",caption="Sunrise by the mountains")
-st.image("Q.4.png",caption="Sunrise by the mountains")
-st.image("Q.5.png",caption="Sunrise by the mountains")
-st.image("Q.6.png",caption="Sunrise by the mountains")
+st.html(
+    "<h2>         كم رواتبنا  حنا يا حديثي التخرج؟       </h2>"
+    "<p>هنا حسبت رواتب حديثي التخرج </p>"
+)
+st.image("Q.3.png")
+st.html(
+    "<h2>         نبي نشوف كم نسبة الطلب على حديثي التخرج مقابل ذوي الخبرة       </h2>"
+  
+)
+st.image("Q.4.png")
+st.html(
+    
+    "<p> و نلاحظ هنا ان الطلب على حديثي التخرج جيد جدا فالفرص موجودة    </p>"
+)
+st.html(
+    "<h2>        متى توظف الشركات       </h2>"
+  
+)
+st.image("Q.5.png")
+st.image("Q.6.png")
+st.html(
+    
+    "<p> وهنا نلاحظ ان اخر شهر في السنة هة اكبر شهر في التوظيف    </p>"
+)
+st.html(
+    "<br>"
+    "<br>"
+    "<br>"
+    "<p> وفي الختام هذا تحليل عن بيانات التوظيف في السعودية و نتمنى انه فادكم و قدم معلومات تساعد في البحث عن و ظيفة جيدة و مناسبة    </p>"
+)
