@@ -15,8 +15,15 @@ st.html(
    
     "<p>و مثل ما تلاحظ عزيزي القارى ان الرياض هي اعلى منطقة و هذا يعطي افضلية لأهل الرياض في الوظايف   </p>"
 )
-
-st.image("Q.2.png",caption="Sunrise by the mountains")
+st.html(
+    "<h2>         مين تفضل الشركات       </h2>"
+    "<p>هنا راح نشوف الشركات وش تفضل في التوظيف العيال او البنات </p>"
+)
+st.image("Q.2.png")
+st.html(
+    
+    "<p>و مثل ما تشوف ما في فرق كبير في التفضيل و هذا يرجع لنوعية الوظيفة و مدى تناسبها  </p>"
+)
 st.image("Q.3.png",caption="Sunrise by the mountains")
 st.image("Q.4.png",caption="Sunrise by the mountains")
 st.image("Q.5.png",caption="Sunrise by the mountains")
